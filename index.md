@@ -22,4 +22,4 @@ For my second milestone, I focused on personalizing the magic mirror display. I 
 # First Milestone
 My first milestone was setting up the raspberry pi and the screen. First, I downloaded linux onto my micro-SD card and connected my raspberry pi to the monitor screen. Then, I connected my raspberry pi to my computer so I can edit the monitor screen remotely from my computer. Once I had those set up, I downloaded code from the open-source Magic Mirror GitHub repository so my screen now displays the default modules such as time, weather, calendar, etc.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y2ftyRJfoBI "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]()](https://www.youtube.com/watch?v=y2ftyRJfoBI "First Milestone"){:target="_blank" rel="noopener"}
