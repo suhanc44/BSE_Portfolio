@@ -8,6 +8,8 @@ A Smart Mirror controlled by a Raspberry Pi that displays the date and time alon
 
 
 # Reflection
+This project has taught me a lot about engineering and myself. I have learned about github, API keys, and javascript and along with this, I have learned about my passions. This project has showed me that computer science is something I am interested in and I am now thinking about pursuing it in the future. Overall, this project was fulfilling and I am proud of what I have accomplished.
+
 [![Project Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1625256163/video_to_markdown/images/youtube--ibJnKg8M0AA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ibJnKg8M0AA "Project Demo")
   
 # Final Milestone
