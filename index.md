@@ -6,6 +6,8 @@ A Smart Mirror controlled by a Raspberry Pi that displays the date, time, and we
 | Suhani C. | Cupertino High | Computer Science | Incoming Senior
 
 
+
+# Reflection
 [![Project Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1625256163/video_to_markdown/images/youtube--ibJnKg8M0AA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ibJnKg8M0AA "Project Demo")
   
 # Final Milestone
