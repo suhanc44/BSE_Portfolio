@@ -6,11 +6,12 @@ A Smart Mirror controlled by a Raspberry Pi that displays the date, time, and we
 | Suhani C. | Cupertino High | Computer Science | Incoming Senior
 
 
+![Project Demo](https://youtu.be/ibJnKg8M0AA "Project Demo")
   
 # Final Milestone
  For my third milestone, I completed my project by combining all the parts together. The main part of this milestone was gluing the monitor to the acrylic mirror sheet. I used hot glue to secure the monitor to the bottom left of the mirror. After that, I taped cardboard to the back of the mirror to support it so it could stand on its own.
  
-![Third Milestone](https://youtu.be/rjmjY7odp80" "Third Milestone")
+![Third Milestone](https://youtu.be/rjmjY7odp80 "Third Milestone")
 
 
 # Second Milestone
