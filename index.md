@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-A Smart Mirror controlled by a Raspberry Pi that displays the date, time, and weather along with personalized information such as reminders, a calendar, and an inspirational quote.
+A Smart Mirror controlled by a Raspberry Pi that displays the date and time along with personalized information such as a calendar, an inspirational quote, and your currently playing song on Spotify.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
